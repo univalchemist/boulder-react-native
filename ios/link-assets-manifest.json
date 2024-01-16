@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/.gitkeep",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaDisplay-Black.otf",
+      "sha1": "baa0fa0e6286c0bbb5cc38e1dc7bacf43cc80fe3"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaDisplay-Bold.otf",
+      "sha1": "ef8e8eee8317479c1165ecd9eafdf66c8620afa5"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaDisplay-Italic.otf",
+      "sha1": "87835592e60048d62f0b85df28053f85f864d69f"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaDisplay-Light.otf",
+      "sha1": "944d00f5690c93b57a5a45d8e40ad91abd40a2b8"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaDisplay-Medium.otf",
+      "sha1": "67dd9b7ec858133d49ec20d80a3f5af0c8b90ef9"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaDisplay-Regular.otf",
+      "sha1": "703d249a09fb48a5f2cd9c1471a955761c6ca41c"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaDisplay-SemiBold.otf",
+      "sha1": "87862ca6fbc77f0ca010c76b12b80273a9e6887d"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaDisplay-Thin.otf",
+      "sha1": "a1c1950bdc25f24300ac9c64cef80c2c7c3cd91f"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaText-Bold.otf",
+      "sha1": "d08e30e7c7fc67f1999c15cd7b65c5563ab27190"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaText-Italic.otf",
+      "sha1": "c9b6bcdef1d4ccee9418cfbc9b4a6d02e6272897"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaText-Light.otf",
+      "sha1": "4e56abfaca5c92d151272515c215d696e83a5ed1"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaText-Medium.otf",
+      "sha1": "403be4d7b416a4a6fc56ab64733194d572035522"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaText-Regular.otf",
+      "sha1": "a737a199119a8e11dde453fdc7819166bb8f029f"
+    },
+    {
+      "path": "src/assets/fonts/EloquiaText-SemiBold.otf",
+      "sha1": "0900dfca400259d177d57d308262840866cf9f82"
+    }
+  ]
+}
